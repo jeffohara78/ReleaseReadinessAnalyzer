@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\bin\Debug\net8.0\ReleaseReadinessAnalyzer.exe
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\bin\Debug\net8.0\ReleaseReadinessAnalyzer.deps.json
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\bin\Debug\net8.0\ReleaseReadinessAnalyzer.runtimeconfig.json
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\bin\Debug\net8.0\ReleaseReadinessAnalyzer.dll
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\bin\Debug\net8.0\ReleaseReadinessAnalyzer.pdb
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.dll
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\refint\ReleaseReadinessAnalyzer.dll
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.pdb
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ReleaseReadinessAnalyzer.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\ReleaseReadinessAnalyzer\ReleaseReadinessAnalyzer\obj\Debug\net8.0\ref\ReleaseReadinessAnalyzer.dll
